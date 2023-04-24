@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "tinder-expo",
-    "slug": "tinder-expo",
+    "slug": "ayepbass",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "29687365-116a-461e-acc8-5f6fee3f73fe"
+      }
+    },
+    "owner": "ayomide321"
   }
 }
